@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SplitPackageDemoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SplitPackageDemoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SplitPackageDemoApplication.class, args);
+    }
 
 }
